@@ -1,10 +1,8 @@
 <?php
 
-echo "Teste de código <strong>Olá Mundo456</strong>";
+echo "Teste de código <strong>Olá Mundo</strong>";
 
-
-<<<<<<< HEAD
-echo "ola local";
+echo "ola local local";
 
 
 ?>
